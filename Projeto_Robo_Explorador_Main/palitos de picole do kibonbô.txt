@@ -1,0 +1,7 @@
+Base 50
+rodas 3
+teto 32
+frente 38
+laterais 76
+
+Total 199
